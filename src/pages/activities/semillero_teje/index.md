@@ -1,11 +1,16 @@
 ---
 layout: ../../../layouts/ActivityLayout.astro
 title: 'Semillero Teje'
+isTejemas: false
 ---
 
-# SEMILLERO TEJE
+# SEMILLERO TEJE+
 
 TEJE+ es un semillero comprometido con la promoción de la equidad de género a través de la robótica y las áreas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas). Buscamos empoderar a niñas, niños y jóvenes de diversas comunidades, brindándoles herramientas y conocimientos para que puedan desarrollarse en el campo tecnológico, sin barreras de género.
+
+<strong>
+  <a href='https://drive.google.com/file/d/1V1K-5noWG76EDu0phEBQB1865SgEjYVM/view' target='blank'>Ver PDF</a>
+</strong>
 
 ## ¿Qué hacemos en TEJE+?
 
@@ -37,7 +42,9 @@ Promover la equidad de género a través de la educación en robótica, inspiran
 
 ![alt text](image-3.png)
 
-### Hemos participado en:
+<br>
+
+## Hemos participado en:
 
 ### CODEFEST 2023
 

@@ -1,5 +1,6 @@
 ---
 import LoadActivity from '../components/LoadActivity.astro'
+import TejemasPdf from '../components/TejemasPdf.astro'
 import Root from './Root.astro'
 const { frontmatter } = Astro.props
 ---
@@ -7,7 +8,10 @@ const { frontmatter } = Astro.props
 <Root title={frontmatter.title}>
   <section class="content" slot="main-content">
     <slot />
-    <LoadActivity isLoadActivity={frontmatter.isLoadActivity} />
+    <section>
+      <LoadActivity isLoadActivity={frontmatter.isLoadActivity} />
+      <TejemasPdf isTejemas={frontmatter.isTejemas} />
+    </section>
     <style is:global>
       p:has(img) {
         padding: 1.5rem;
