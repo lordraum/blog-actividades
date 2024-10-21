@@ -4,12 +4,11 @@ title: 'Roboequal'
 ---
 
 # ROBOEQUAL: ROMOVIENDO LA EQUIDAD DE GÉNERO Y LA ROBÓTICA EDUCATIVA.
-
 ![alt text](image-1.png)
 
 Combinación de las palabras "robot" y "equal", enfatizando el objetivo de promover la equidad de género en el campo de la robótica. La palabra "innovación" para resaltar el enfoque en el desarrollo de soluciones creativas y vanguardistas.
 
-## NUESTRO OBJETIVO:
+## Nuestro objetivo:
 
 Empoderar a niñas, niños y jóvenes mediante la educación en robótica, fomentando la equidad de género, promoviendo un entorno inclusivo y diverso en el ámbito de las áreas STEM
    

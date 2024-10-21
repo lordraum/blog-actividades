@@ -9,17 +9,23 @@ const { frontmatter } = Astro.props
     <slot />
     <LoadActivity isLoadActivity={frontmatter.isLoadActivity} />
     <style is:global>
+      p:has(img) {
+        padding: 1.5rem;
+      }
+
+      li:has(img) img {
+        margin-top: 2rem;
+      }
+
       .content img {
         aspect-ratio: inherit;
-        width: 80%;
-        text-align: center;
+        margin-inline: auto;
         display: block;
-        margin: auto;
+        margin-block: 0;
       }
 
       .content h1,
-      .content h2,
-      .content img {
+      .content h2 {
         margin-top: 3rem;
       }
 
