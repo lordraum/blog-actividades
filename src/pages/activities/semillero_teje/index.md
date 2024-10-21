@@ -61,7 +61,7 @@ Promover la equidad de género a través de la educación en robótica, inspiran
 ![alt text](image-5.png)
 
 <strong>
-  <a href='https://www.youtube.com/live/seHup4Ckig4' target='blank'>Visitar!!</a>
+  <a href='https://www.youtube.com/watch?v=WtUKggbJPco' target='blank'>Visitar!!</a>
 </strong>
 
 
@@ -76,7 +76,7 @@ Promover la equidad de género a través de la educación en robótica, inspiran
 ![alt text](image-8.png)
 
 <strong>
-  <a href='https://www.youtube.com/watch?v=WtUKggbJPco' target='blank'>Visitar!!</a>
+  <a href='https://www.youtube.com/live/seHup4Ckig4' target='blank'>Visitar!!</a>
 </strong>
 
 ### ENCUENTRO DE SEMILLEROS IDEP 2024:
@@ -84,7 +84,7 @@ Promover la equidad de género a través de la educación en robótica, inspiran
   ![alt text](image-7.png)
 
 <strong>
-  <a href='https://www.youtube.com/watch?v=WtUKggbJPco' target='blank'>Visitar!!</a>
+  <a href='https://www.facebook.com/idep.bogota/videos/v-encuentro-distrital-de-semilleros-de-maestras-y-maestros/2220806314946798/' target='blank'>Visitar!!</a>
 </strong>
 
 <style>
