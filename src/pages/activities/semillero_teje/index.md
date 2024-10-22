@@ -9,7 +9,7 @@ isTejemas: false
 TEJE+ es un semillero comprometido con la promoción de la equidad de género a través de la robótica y las áreas STEM (Ciencia, Tecnología, Ingeniería y Matemáticas). Buscamos empoderar a niñas, niños y jóvenes de diversas comunidades, brindándoles herramientas y conocimientos para que puedan desarrollarse en el campo tecnológico, sin barreras de género.
 
 <strong>
-  <a href='https://drive.google.com/file/d/1V1K-5noWG76EDu0phEBQB1865SgEjYVM/view?usp=sharing' target='blank'>Ver PDF</a>
+  <a href='https://fzwrpxrxubuvttyvvxtb.supabase.co/storage/v1/object/public/blog-tecnologia/TEJE%20+.pdf?t=2024-10-22T04%3A35%3A33.509Z' target='blank'>Ver PDF</a>
 </strong>
 
 ## ¿Qué hacemos en TEJE+?
